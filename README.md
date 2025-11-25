@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**joaoarapucas/joaoarapucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" style="font-family: 'Fira Code', Consolas, monospace;">
+  hello, world 
+</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src=https://www.hdwallpapers.in/download/black_stars_hd_black_aesthetic-1366x768.jpg align=center/>
+
+<p align=center> C | C++ | C# | Python | Javascript </p>
+
+<p align=center> tenho 20 anos e gosto bastante de física!!! e matemática no geral. </p>
+
+<p align=center> no momento tenho treinado React para SPAs e C++ para simulações (física é legal!!!)</p>
+
+<p>*ignorem a bagunça!! ainda estou montando o readme</p>
+
+<p> atualizado em 25/11/2025 </p>
